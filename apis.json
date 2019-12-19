@@ -1,0 +1,96 @@
+{
+    "name": "DNS Made Easy",
+    "description": "Get the fastest & best-valued DNS services at DNS Made Easy. We provide top tier Enterprise DNS services on our 100% uptime guaranteed IP Anycast+ network.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/763-dns-made-easy.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "dns general",
+        "domains",
+        "have api",
+        "service level agreement"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dns-made-easy\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DNS Made Easy",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/763-dns-made-easy.jpg",
+            "humanURL": "http:\/\/www.dnsmadeeasy.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dns-made-easy-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Affiliates",
+            "url": "http:\/\/www.dnsmadeeasy.com\/integration\/affiliateprogram\/"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/api.dnsmadeeasy.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/social.dnsmadeeasy.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.dnsmadeeasy.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/dns-made-easy"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dns-made-easy"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.dnsmadeeasy.com\/integration\/restapi\/"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/www.dnsmadeeasy.com\/support\/faq\/"
+        },
+        {
+            "type": "Partners",
+            "url": "http:\/\/www.dnsmadeeasy.com\/integration\/partners\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.dnsmadeeasy.com\/pricing\/"
+        },
+        {
+            "type": "Privacy Policy",
+            "url": "http:\/\/www.dnsmadeeasy.com\/pdf\/privacy_policy.pdf"
+        },
+        {
+            "type": "Service Level Agreement",
+            "url": "http:\/\/www.dnsmadeeasy.com\/pdf\/sla.pdf"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "http:\/\/www.dnsmadeeasy.com\/about\/policiesandtos\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dnsmadeeasy"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.dnsmadeeasy.com"
+        }
+    ]
+}
